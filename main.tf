@@ -1,8 +1,7 @@
 /*
  * # wanted-cloud/terraform-azure-network-interface
  * 
- * About
-Terraform building block managing Azure Network Interface and its related resources.
+ * Terraform building block managing Azure Network Interface and its related resources.
  */
 
 resource "azurerm_network_interface" "this" {

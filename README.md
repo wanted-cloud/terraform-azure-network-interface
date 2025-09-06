@@ -1,7 +1,7 @@
 <!-- BEGIN_TF_DOCS -->
 # wanted-cloud/terraform-azure-network-interface
 
-About
+Terraform building block managing Azure Network Interface and its related resources.
 
 ## Table of contents
 
